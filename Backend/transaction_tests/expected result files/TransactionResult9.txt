@@ -1,0 +1,2 @@
+ERROR: Company not found. Cannot complete.
+Transaction: 03 dominick mancini     12345 00050.00 TT

@@ -1,0 +1,3 @@
+12345 dominick mancini     A 01000.00 0001 S
+12346 scott mclean         A 00470.00 0122 N
+12347 janahan something	   A 01000.00 8888 N

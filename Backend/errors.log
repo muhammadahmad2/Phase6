@@ -1,0 +1,28 @@
+This prototype autogenerates a new account number, and disregards the transaction's provided number.
+If the frontend is changed in the future, this can be modified easily.
+SUCCESS: Account Created Successfully
+ERROR: Account already exists, cannot use the same number twice.
+Transaction: 05 gamma prime          12351 00000.00 MM
+ERROR: Transaction "05 gamma prime          12351 00000.00 MM" has failed.
+ERROR: Depositing will leave negative account balance. Wow, you're really depositing something small. Cannot complete.
+Transaction: 04 vector prime         12351 00000.09 MM
+ERROR: Transaction "04 vector prime         12351 00000.09 MM" has failed.
+SUCCESS: Deposit Transaction completed successfully.
+ERROR Account with number 12346. Account is Disabled
+ERROR: Transaction "04 scott mclean         12346 00010.00 MM" has failed.
+ERROR Account with number 12346. Account is Disabled
+ERROR: Transaction "01 scott mclean         12346 00010.00 MM" has failed.
+SUCCESS: Withdrawal Transaction completed successfully.
+ERROR: Transaction will leave negative account balance. Cannot complete.
+Transaction: 01 dominick mancini     12345 00200.00 MM
+ERROR: Transaction "01 dominick mancini     12345 00200.00 MM" has failed.
+ERROR: Company not found. Cannot complete.
+Transaction: 03 dominick mancini     12345 00050.00 TT
+ERROR: Transaction "03 dominick mancini     12345 00050.00 TT" has failed.
+SUCCESS: Paybill Transaction completed successfully.
+ERROR: Paying the bill will leave negative account balance. Cannot complete.
+Transaction: 03 dominick mancini     12345 00200.00 TV
+ERROR: Transaction "03 dominick mancini     12345 00200.00 TV" has failed.
+ERROR: Transaction will leave negative account balance. Cannot complete.
+Transaction: 01 dominick mancini     12355 00200.00 MM
+ERROR: Transaction "01 dominick mancini     12355 00200.00 MM" has failed.

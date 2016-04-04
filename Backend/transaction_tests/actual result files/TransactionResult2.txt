@@ -1,0 +1,2 @@
+ERROR: Account already exists, cannot use the same number twice.
+Transaction: 05 gamma prime          12351 00000.00 MM

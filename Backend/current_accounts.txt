@@ -1,0 +1,7 @@
+12345 dominick mancini     A    139.7
+12346 scott mclean         D      470
+12347 janahan something    A     99.7
+12348 chuck norris         A        0
+12349 optimus prime        A        0
+12350 janahan nirmalan     A      600
+12351 vector prime         A    299.9

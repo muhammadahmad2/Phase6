@@ -1,0 +1,12 @@
+05 vector prime         12351 00000.00 MM
+05 gamma prime          12351 00000.00 MM
+04 vector prime         12351 00000.09 MM
+04 vector prime         12351 00300.00 MM
+04 scott mclean         12346 00010.00 MM
+01 scott mclean         12346 00010.00 MM
+01 dominick mancini     12345 00010.00 MM
+01 dominick mancini     12345 00200.00 MM
+03 dominick mancini     12345 00050.00 TT
+03 dominick mancini     12345 00050.00 TV
+03 dominick mancini     12345 00200.00 TV
+01 dominick mancini     12355 00200.00 MM

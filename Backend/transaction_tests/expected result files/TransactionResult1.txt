@@ -1,0 +1,3 @@
+This prototype autogenerates a new account number, and disregards the transaction's provided number.
+If the frontend is changed in the future, this can be modified easily.
+SUCCESS: Account Created Successfully

@@ -1,0 +1,2 @@
+ERROR: Transaction will leave negative account balance. Cannot complete.
+Transacton: 01 dominick mancini     12345 00200.00 MM

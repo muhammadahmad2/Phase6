@@ -1,0 +1,2 @@
+ERROR: Paying the bill will leave negative account balance. Cannot complete.
+Transacton: 03 dominick mancini     12345 00200.00 TV
