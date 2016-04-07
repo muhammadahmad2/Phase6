@@ -1,0 +1,6 @@
+12345 Muhammad Ahmad       A 00199.80 S
+12346 mark                 D 00470.00 N
+12347 john doe             A 00099.70 N
+12348 chuck norris         A 00000.00 N
+12349 khirthana subramania A 00000.00 N
+12350 janahan nirmalan     A 00600.00 N
