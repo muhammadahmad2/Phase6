@@ -2,7 +2,7 @@ login
 Standard
 janahan nirmalan
 transfer
-6
-4
+00006
+00004
 100.00
 logout
