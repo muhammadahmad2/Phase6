@@ -1,0 +1,6 @@
+login
+admin   
+create
+Khirthana Subramania
+100.00
+logout
