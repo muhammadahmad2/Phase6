@@ -1,6 +1,7 @@
-12345 Muhammad Ahmad       A 00199.80 0005 S
-12346 mark                 D 00470.00 0122 N
-12347 john doe             A 00099.70 8891 N
-12348 chuck norris         A 00000.00 0000 N
-12349 khirthana subramania A 00500.00 0000 N
-12350 janahan nirmalan     A 00600.00 0002 N
+00001 muhammad ahmad       A 00199.80 0005 S
+00002 mark                 D 00470.00 0122 N
+00003 john doe             A 00099.70 8891 N
+00004 chuck norris         A 00000.00 0000 N
+00005 khirthana subramania A 00000.00 0002 N
+00006 janahan nirmalan     A 00600.00 0005 N
+00000 END_OF_FILE          D 00000.00 0000 N

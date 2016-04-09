@@ -1,6 +1,6 @@
 login
 Standard
-Muhammad Ahmad      
+muhammad ahmad      
 withdrawal
 1
 100
