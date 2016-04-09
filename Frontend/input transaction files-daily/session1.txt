@@ -1,0 +1,7 @@
+login
+Standard
+muhammad ahmad      
+withdrawal
+1
+100
+logout

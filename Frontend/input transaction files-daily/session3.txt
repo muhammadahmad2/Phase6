@@ -1,0 +1,8 @@
+login
+Standard
+janahan nirmalan
+transfer
+6
+4
+100.00
+logout
