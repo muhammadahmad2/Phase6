@@ -1,0 +1,7 @@
+login
+Standard
+john trudeau
+deposit
+00007
+100.00
+logout

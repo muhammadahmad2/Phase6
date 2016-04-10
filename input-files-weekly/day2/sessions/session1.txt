@@ -1,0 +1,7 @@
+login
+Standard
+khirthana subramania
+deposit
+00001
+200.00
+logout

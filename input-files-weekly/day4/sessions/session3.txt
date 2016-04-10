@@ -1,0 +1,6 @@
+login
+Admin
+create
+john trudeau
+300.00
+logout

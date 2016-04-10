@@ -1,0 +1,8 @@
+login
+Standard
+chuck norris
+paybill
+00006
+TV
+200.00
+logout

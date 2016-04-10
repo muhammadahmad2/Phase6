@@ -1,18 +1,6 @@
 login
-Admin   
+Admin
 create
 khirthana subramania
 100.00
-create
-janahan nirmalan
-500.00
-create
-muhammad ahmad
-700.00
-create
-john doe
-470.00
-create
-john doe
-400.00
 logout

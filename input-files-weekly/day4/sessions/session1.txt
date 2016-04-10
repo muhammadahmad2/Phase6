@@ -1,0 +1,7 @@
+login
+Standard
+chuck norris
+deposit
+00006
+100.00
+logout

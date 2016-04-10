@@ -1,0 +1,9 @@
+login
+Admin
+create
+john doe
+470.00
+create
+john doe
+400.00
+logout

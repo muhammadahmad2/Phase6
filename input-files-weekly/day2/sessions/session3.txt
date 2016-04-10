@@ -1,0 +1,6 @@
+login
+Admin
+create
+chuck norris
+550.00
+logout

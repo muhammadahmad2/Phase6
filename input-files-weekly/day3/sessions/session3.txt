@@ -1,0 +1,8 @@
+login
+Standard
+janahan nirmalan
+transfer
+00002
+00003
+50.00
+logout

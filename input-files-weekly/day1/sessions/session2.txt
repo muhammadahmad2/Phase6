@@ -1,0 +1,9 @@
+login
+Admin
+create
+janahan nirmalan
+500.00
+create
+muhammad ahmad
+700.00
+logout
