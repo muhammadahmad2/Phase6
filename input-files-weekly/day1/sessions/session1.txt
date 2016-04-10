@@ -1,5 +1,5 @@
 login
-admin   
+Admin   
 create
 khirthana subramania
 100.00
