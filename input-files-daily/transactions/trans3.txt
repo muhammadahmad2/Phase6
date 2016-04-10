@@ -1,0 +1,4 @@
+10 janahan nirmalan     00000 00000.00 S 
+02 janahan nirmalan     00006 00100.00 F 
+02 chuck norris         00004 00100.00 T 
+00 janahan nirmalan     00000 00000.00 S 

@@ -51,7 +51,7 @@ class User {
     string getName() {
         return name;
     }
-    
+
     /**
      * Returns true if the account is enabled.
      */

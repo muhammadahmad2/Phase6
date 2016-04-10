@@ -5,10 +5,10 @@
 * The bank of hard water is compiled with the following command:
 * 	g++ -std=c++11 main.cpp -o main.o
 * This program can be run with the command:
-*	./main.o 
+*	./main.o
 * The program can read text inputs from a file:
 * 	./main.o <textfile.txt>
-* When run without the command line argument, it will accept input from the 
+* When run without the command line argument, it will accept input from the
 * stdin.
 * After each command is processed, a transaction log in the folder TF will be
 * appended to. This will indicate all the transactions that are completed
@@ -227,7 +227,7 @@ bool isDouble(string s) {
             return false;
         }
     }
-    return startNumber && period && endNumber && count < 3; 
+    return startNumber && period && endNumber && count < 3;
 }
 
 /**
@@ -255,7 +255,7 @@ bool accountValidator(int *accountIndex, int *userIndex, string accountString, i
                 break;
             }
         }
-    } 
+    }
     //still see if it is -1
     if(*userIndex == -1){
         cout << "Error: Please enter a valid account." << endl;
@@ -263,7 +263,7 @@ bool accountValidator(int *accountIndex, int *userIndex, string accountString, i
     }
     // get the index of the from account
     *accountIndex = getAccountIndex(users.at(*userIndex), *accountNumber);
-  
+
     // see if the account exists
     if (*accountIndex == -1 && standardSession) {
         cout << "Error: Please enter a valid account." << endl;
@@ -402,7 +402,7 @@ bool enableOrDisable(istream& stream, bool enable) {
         transCode = "09";
     }
     if(!getAccountInfo(&userIndex, &accountIndex, &accountN, stream, false))
-        return false;    
+        return false;
     if (users.at(userIndex).enableOrDisable(users.at(userIndex), accountIndex, enable)){  // Enables the users account
         formatTFString(accountN, users.at(userIndex).getName(), transCode, 00.00, "  ");
         return true;
@@ -424,7 +424,7 @@ bool deleteAccount(istream& stream) {
     int userIndex = -1;
     int accountN;  // The account number the admin is trying to disable is stored here
     if(!getAccountInfo(&userIndex, &accountIndex, &accountN, stream, true))
-        return false;  
+        return false;
     users.at(userIndex).deleteAccountN(users.at(userIndex), accountIndex);  // Deletes the users account
     // write to the TF
     formatTFString(accountN, users.at(userIndex).getName(), "06", 00.00, "  ");
@@ -442,7 +442,7 @@ bool changeplan(istream& stream) {
     string planString = "NP";
     int accountN;  // The account number the admin is trying to change plans for is stored here
     if(!getAccountInfo(&userIndex, &accountIndex, &accountN, stream, true))
-        return false;  
+        return false;
     users.at(userIndex).changeplan(users.at(userIndex), accountIndex);  // Change plnas the users account
     char planType = users.at(userIndex).getAccountPlan(accountIndex);
     if(planType == 'S')
@@ -678,7 +678,7 @@ bool withdrawal(istream& stream) {
         cout << "Error: Must enter a double or an integer value." << endl;
         return false;
     }
-    withdrawalAmount = stod(input);  // convert to a double.. not working if like 1u8.1 or something    
+    withdrawalAmount = stod(input);  // convert to a double.. not working if like 1u8.1 or something
     // get the funds and account plan from the users account
     userFunds = users.at(userIndex).getFundsInfo(accountIndex) - users.at(userIndex).getHeldFunds(accountIndex);
     accountPlan = users.at(userIndex).getAccountPlan(accountIndex);
@@ -743,8 +743,8 @@ bool deposit(istream& stream) {
         return false;
     }
         // convert to a double.. not working if like 1u8.1 or something
-    depositAmount = stod(input); 
-    
+    depositAmount = stod(input);
+
     // get the funds and account plan from the users account
     userFunds = users.at(userIndex).getFundsInfo(accountIndex);
     accountPlan = users.at(userIndex).getAccountPlan(accountIndex);
@@ -883,7 +883,7 @@ int main(int argc, char* argv[]) {
     bool logout = false;
     string input;
     string file = "";
-    transactionFile = "./TF/transactionFile.txt"; 
+    transactionFile = "./TF/transactionFile.txt";
     accountFile = "./Accounts/valid-accounts";
     // if there is a text file, try to read the input
     if(argc > 2){

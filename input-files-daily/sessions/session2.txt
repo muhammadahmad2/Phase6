@@ -1,7 +1,7 @@
 login
 Standard
-Janahan Nirmalan
+john doe
 deposit
-00012
+00003
 100.00
 logout

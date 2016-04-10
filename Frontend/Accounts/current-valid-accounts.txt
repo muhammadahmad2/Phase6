@@ -4,4 +4,5 @@
 00004 One Hundred          A 00100.00 N
 00009 Stuart Cal           A 10000.00 S
 00010 lol                  A 00100.00  
+00012 janahan nirmalan     A 00200.00 S
 00000 END_OF_FILE          D 00000.00 N
