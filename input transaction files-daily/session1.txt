@@ -1,7 +1,0 @@
-login
-Standard
-muhammad ahmad      
-withdrawal
-00001
-100.00
-logout
