@@ -53,8 +53,8 @@ args[4]=old merged master transactions file path and filename
 		//File[] arrayOfTransactionFiles = Utilities.getIndividualTransactionFiles("./transaction files/");
 																			  // "./transaction files/" is default
 
-		File[] arrayOfTransactionFiles = Utilities.getIndividualTransactionFiles(args[0]);
-		File fMasterTransactionFile = Utilities.mergeFiles(arrayOfTransactionFiles, args[0]+"mergedTransactionFile.txt");
+		//File[] arrayOfTransactionFiles = Utilities.getIndividualTransactionFiles(args[0]);
+		File fMasterTransactionFile = new File(args[0]);
 
 		File fOldMasterAccountsFile = new File(args[1]);
 
