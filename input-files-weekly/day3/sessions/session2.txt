@@ -1,8 +1,7 @@
 login
 Standard
 john doe
-transfer
+withdrawal
 00004
-00005
 50.00
 logout

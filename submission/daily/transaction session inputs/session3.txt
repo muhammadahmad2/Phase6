@@ -1,7 +1,8 @@
 login
 Standard
 janahan nirmalan
-deposit
-00002
-50.00
+transfer
+00006
+00004
+100.00
 logout

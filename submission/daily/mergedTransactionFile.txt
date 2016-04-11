@@ -1,0 +1,13 @@
+10 muhammad ahmad       00000 00000.00 S 
+01 muhammad ahmad       00001 00100.00   
+00 muhammad ahmad       00000 00000.00 S 
+10 john doe             00000 00000.00 S 
+04 john doe             00003 00100.00   
+00 john doe             00000 00000.00 S 
+10 janahan nirmalan     00000 00000.00 S 
+02 janahan nirmalan     00006 00100.00 F 
+02 chuck norris         00004 00100.00 T 
+00 janahan nirmalan     00000 00000.00 S 
+10 muhammad ahmad       00000 00000.00 S 
+04 muhammad ahmad       00001 00200.00   
+00 muhammad ahmad       00000 00000.00 S 
